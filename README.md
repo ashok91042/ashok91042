@@ -7,7 +7,7 @@
 <div align="center">
   Full Stack Developer specializing in highly performant React applications and robust Node.js backend architectures.
   <br/><br/>
-  <a href="https://github.com/venkatesh7975" style="text-decoration:none;">
+  <a href="https://github.com/ashok91042" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
@@ -21,7 +21,7 @@
 ### Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh7975&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashok91042&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>

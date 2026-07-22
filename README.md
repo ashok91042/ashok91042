@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/venkatesh-moyya/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/chintha-ashokkumar/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
